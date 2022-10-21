@@ -1,7 +1,8 @@
 name: ci-node
 on:
   pull_request:
-    branches: [ develop ]
+    branches: 
+      - develop
 
 jobs:
   run-ci:
