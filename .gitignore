@@ -1,4 +1,4 @@
 .scannerwork
 node_modules
-covarege
+coverage/lcov.info
 
